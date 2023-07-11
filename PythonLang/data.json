@@ -1,0 +1,125 @@
+{
+    "Title": "Python Programming",
+    "Descriptions": "Python is a high-level, interpreted, and general-purpose programming language. It is widely used for web development, scientific computing, data analysis, artificial intelligence, and other fields. Python's design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than in languages such as c++ or java. Python supports multiple programming paradigms, including object-oriented, imperative, and functional programming. It also features a dynamic type system and automatic memory management, making it a popular choice for beginners and experienced programmers alike. Python has a large and active community, which has led to the development of many useful libraries and frameworks, such as numpy and pandas for data analysis, and django and flask for web development.",
+    "Status": false,
+    "Topics": [
+        {
+            "Title": "Basic",
+            "Description": "Python is a popular, high-level programming language known for its simplicity and readability. It has built-in data types like integers, floating-point numbers, strings, and booleans, also supports the use of variables to store values of different data types. Python has basic arithmetic operators like addition, subtraction, multiplication, and division, as well as comparison and logical operators for making complex comparisons. Conditional statements like if-elif-else and exception handling mechanism allows for graceful handling of errors and unexpected events. It has built-in data structures like lists and dictionaries to store collections of items and key-value pairs respectively. Python also has built-in functions and modules that can be used to perform common tasks like reading and writing files, and interacting with the operating system. Overall, these are the basic building blocks and concepts of python programming language.",
+            "Topics": [
+                {
+                    "Title": "Basic Syntax",
+                    "Link": ""
+                },
+                {
+                    "Title": "Variables",
+                    "Link": ""
+                },
+                {
+                    "Title": "Data Types & Operators",
+                    "Link": ""
+                },
+                {
+                    "Title": "Conditional Statements",
+                    "Link": ""
+                },
+                {
+                    "Title": "Type Casting",
+                    "Link": ""
+                },
+                {
+                    "Title": "Exceptions",
+                    "Link": ""
+                },
+                {
+                    "Title": "Functions",
+                    "Link": ""
+                },
+                {
+                    "Title": "Lists",
+                    "Link": ""
+                },
+                {
+                    "Title": "Tuples",
+                    "Link": ""
+                },
+                {
+                    "Title": "Sets",
+                    "Link": ""
+                },
+                {
+                    "Title": "Dictionaries",
+                    "Link": ""
+                },
+                {
+                    "Title": "String Manipulation",
+                    "Link": ""
+                }
+            ]
+        },
+        {
+            "Title": "Modules",
+            "Description": "In python, a module is a single file containing python definitions and statements. Modules can define functions, classes, and variables, and can also include runnable code. They provide a way to organize and reuse code, and can be imported into other python files or scripts using the import statement. Python has a large number of built-in modules, such as the os and sys modules, which provide access to operating system functionality. In addition, there are many third-party modules available that can be installed using package managers like pip. Creating and using modules in python allows for better organization and reuse of code, and is a fundamental aspect of creating and maintaining larger python projects.",
+            "Topics": [
+                {
+                    "Title": "Built-In",
+                    "Link": ""
+                },
+                {
+                    "Title": "User-Defined",
+                    "Link": ""
+                }
+            ]
+        },
+        {
+            "Title": "Object Oriented Programming - OOP'S",
+            "Description": "Object-oriented programming (oop) is a programming paradigm that uses objects and their interactions to design applications and computer programs. In python, oop is supported by classes and objects, which are used to model real-world entities and their attributes and behaviors. Classes define the blueprint for objects, and objects are instances of classes. Classes have methods and attributes that define their behavior and properties, and objects can have their own unique attribute values. Oop in python also supports inheritance and polymorphism, which allow for efficient code reuse and more flexible program design. The use of oop in python allows for the creation of complex, modular, and maintainable code, making it a powerful tool for solving real-world problems.",
+            "Topics": [
+                {
+                    "Title": "Classes",
+                    "Link": ""
+                },
+                {
+                    "Title": "Objects",
+                    "Link": ""
+                },
+                {
+                    "Title": "Constructors & Destructors",
+                    "Link": ""
+                },
+                {
+                    "Title": "Polymorphism",
+                    "Link": ""
+                },
+                {
+                    "Title": "Encapsulation",
+                    "Link": ""
+                },
+                {
+                    "Title": "Inheritence",
+                    "Link": ""
+                },
+                {
+                    "Title": "Abstrction",
+                    "Link": ""
+                },
+                {
+                    "Title": "Dunders",
+                    "Link": ""
+                },
+                {
+                    "Title": "Method Overloading",
+                    "Link": ""
+                },
+                {
+                    "Title": "Method Overriding",
+                    "Link": ""
+                },
+                {
+                    "Title": "Decorators",
+                    "Link": ""
+                }
+            ]
+        }
+    ]
+}
