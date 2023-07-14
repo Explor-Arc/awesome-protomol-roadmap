@@ -13,8 +13,8 @@
         "Title": "Programming Languages",
         "Roadmaps": [
             {
-                "Title": "Python Programming",
-                "Id": "PythonLang",
+                "Title": "Python",
+                "Id": "Python",
                 "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/PythonLang/data.json"
             }
         ]
