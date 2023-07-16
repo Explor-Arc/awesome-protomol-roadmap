@@ -1,123 +1,272 @@
 {
-    "Title": "Python Programming",
-    "Description": "Python is a high-level, interpreted, and general-purpose programming language. It is widely used for web development, scientific computing, data analysis, artificial intelligence, and other fields. Python's design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than in languages such as c++ or java. Python supports multiple programming paradigms, including object-oriented, imperative, and functional programming. It also features a dynamic type system and automatic memory management, making it a popular choice for beginners and experienced programmers alike. Python has a large and active community, which has led to the development of many useful libraries and frameworks, such as numpy and pandas for data analysis, and django and flask for web development.",
-    "Status": false,
+    "Title": "Python",
+    "Description": "Python is a high-level, interpreted, and general-purpose programming language. It is widely used for web development, scientific computing, data analysis, artificial intelligence, and other fields. Python's design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than in languages such as C++ or Java. Python supports multiple programming paradigms, including object-oriented, imperative, and functional programming. It also features a dynamic type system and automatic memory management, making it a popular choice for beginners and experienced programmers alike. Python has a large and active community, which has led to the development of many useful libraries and frameworks, such as NumPy and Pandas for data analysis, and Django and Flask for web development.",
     "Topics": [
         {
-            "Title": "Basic",
-            "Description": "Python is a popular, high-level programming language known for its simplicity and readability. It has built-in data types like integers, floating-point numbers, strings, and booleans, also supports the use of variables to store values of different data types. Python has basic arithmetic operators like addition, subtraction, multiplication, and division, as well as comparison and logical operators for making complex comparisons. Conditional statements like if-elif-else and exception handling mechanism allows for graceful handling of errors and unexpected events. It has built-in data structures like lists and dictionaries to store collections of items and key-value pairs respectively. Python also has built-in functions and modules that can be used to perform common tasks like reading and writing files, and interacting with the operating system. Overall, these are the basic building blocks and concepts of python programming language.",
+            "Title": "basics",
+            "Description": "Python is a popular, high-level programming language known for its simplicity and readability. It has built-in data types like integers, floating-point numbers, strings, and booleans, also supports the use of variables to store values of different data types. Python has basic arithmetic operators like addition, subtraction, multiplication, and division, as well as comparison and logical operators for making complex comparisons. Conditional statements like if-elif-else and exception handling mechanism allows for graceful handling of errors and unexpected events. It has built-in data structures like lists and dictionaries to store collections of items and key-value pairs respectively. Python also has built-in functions and modules that can be used to perform common tasks like reading and writing files, and interacting with the operating system. Overall, these are the basic building blocks and concepts of Python programming language.",
             "Topics": [
                 {
                     "Title": "Basic Syntax",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Variables",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Data Types & Operators",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Conditional Statements",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Type Casting",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Exceptions",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "2"
                 },
                 {
                     "Title": "Functions",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Lists",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Tuples",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Sets",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Dictionaries",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "String Manipulation",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 }
             ]
         },
         {
-            "Title": "Modules",
-            "Description": "In python, a module is a single file containing python definitions and statements. Modules can define functions, classes, and variables, and can also include runnable code. They provide a way to organize and reuse code, and can be imported into other python files or scripts using the import statement. Python has a large number of built-in modules, such as the os and sys modules, which provide access to operating system functionality. In addition, there are many third-party modules available that can be installed using package managers like pip. Creating and using modules in python allows for better organization and reuse of code, and is a fundamental aspect of creating and maintaining larger python projects.",
+            "Title": "modules",
+            "Description": "In Python, a module is a single file containing Python definitions and statements. Modules can define functions, classes, and variables, and can also include runnable code. They provide a way to organize and reuse code, and can be imported into other Python files or scripts using the import statement. Python has a large number of built-in modules, such as the os and sys modules, which provide access to operating system functionality. In addition, there are many third-party modules available that can be installed using package managers like pip. Creating and using modules in Python allows for better organization and reuse of code, and is a fundamental aspect of creating and maintaining larger Python projects.",
             "Topics": [
                 {
                     "Title": "Built-In",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
                     "Title": "User-Defined",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "1"
                 }
             ]
         },
         {
-            "Title": "Object Oriented Programming - OOP'S",
-            "Description": "Object-oriented programming (oop) is a programming paradigm that uses objects and their interactions to design applications and computer programs. In python, oop is supported by classes and objects, which are used to model real-world entities and their attributes and behaviors. Classes define the blueprint for objects, and objects are instances of classes. Classes have methods and attributes that define their behavior and properties, and objects can have their own unique attribute values. Oop in python also supports inheritance and polymorphism, which allow for efficient code reuse and more flexible program design. The use of oop in python allows for the creation of complex, modular, and maintainable code, making it a powerful tool for solving real-world problems.",
+            "Title": "oop's",
+            "Description": "Object-oriented programming (OOP) is a programming paradigm that uses objects and their interactions to design applications and computer programs. In Python, OOP is supported by classes and objects, which are used to model real-world entities and their attributes and behaviors. Classes define the blueprint for objects, and objects are instances of classes. Classes have methods and attributes that define their behavior and properties, and objects can have their own unique attribute values. OOP in Python also supports inheritance and polymorphism, which allow for efficient code reuse and more flexible program design. The use of OOP in Python allows for the creation of complex, modular, and maintainable code, making it a powerful tool for solving real-world problems.",
             "Topics": [
                 {
-                    "Title": "Classes",
-                    "Link": ""
+                    "Title": "Classes ",
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
-                    "Title": "Objects",
-                    "Link": ""
+                    "Title": "Objects ",
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
-                    "Title": "Constructors & Destructors",
-                    "Link": ""
+                    "Title": "Constructors and Destructors ",
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
-                    "Title": "Polymorphism",
-                    "Link": ""
+                    "Title": "Polymorphism ",
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
-                    "Title": "Encapsulation",
-                    "Link": ""
+                    "Title": "Encapsulation ",
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
-                    "Title": "Inheritence",
-                    "Link": ""
+                    "Title": "Inheritence ",
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
-                    "Title": "Abstrction",
-                    "Link": ""
+                    "Title": "Abstraction ",
+                    "Link": "",
+                    "Priority": "1"
                 },
                 {
-                    "Title": "Dunders",
-                    "Link": ""
+                    "Title": "Dunders ",
+                    "Link": "",
+                    "Priority": "2"
                 },
                 {
-                    "Title": "Method Overloading",
-                    "Link": ""
+                    "Title": "Method Overloading ",
+                    "Link": "",
+                    "Priority": "3"
                 },
                 {
-                    "Title": "Method Overriding",
-                    "Link": ""
+                    "Title": "Method Overriding ",
+                    "Link": "",
+                    "Priority": "3"
                 },
                 {
                     "Title": "Decorators",
-                    "Link": ""
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "package managers",
+            "Description": "A package manager is a tool that helps to manage and distribute software packages, and in the case of Python, package managers are used to manage and distribute libraries and modules. Two popular package managers for Python are pip and conda. They allow developers to easily install and manage third-party packages and modules, making it easy to add new functionality to their projects. These package managers also allow developers to specify the version of a package they want to install and manage package dependencies, that are needed for the package to work correctly. By using package managers, developers can easily share and reuse code, and manage dependencies in a consistent and efficient way, making it easier to develop, test and deploy Python applications.",
+            "Topics": [
+                {
+                    "Title": "PIP ",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "PyPI ",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Conda",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        },
+        {
+            "Title": "advanced topics",
+            "Description": "Advanced topics in Python include Iterators, Regular Expressions, and Lambda Functions. Iterators are objects that can be iterated upon, they represent a sequence of values and can be used in loops and other iteration contexts. Regular expressions are a powerful tool for working with text, they are used to search for patterns in strings and can be used for tasks such as validating input, searching for specific patterns, and replacing text. Lambda functions are small, anonymous functions that can be used in places where a function is expected, often used in conjunction with higher-order functions such as map and filter. They are useful for creating small, throwaway functions that can be used to simplify code and improve readability. All these concepts are powerful ways to handle data, process strings and write more efficient code.",
+            "Topics": [
+                {
+                    "Title": "Regular Expressions ",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Iterators ",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Lambda Functions ",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "List Comprehensions ",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Generator Compressions ",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Python Paradigms",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        },
+        {
+            "Title": "synchronous frameworks",
+            "Description": "Synchronous frameworks in Python are web frameworks that process one request at a time, and only move on to the next request once the current one has been completed. These frameworks are designed to handle a relatively small number of concurrent requests, and are well suited for small to medium-sized web applications. Django is a high-level framework that provides an ORM and many features such as template engine, administrative interface and support for middleware components. Flask is a lightweight and easy-to-extend micro framework that does not include an ORM or such features out of the box. Pyramid is a flexible and minimalistic framework that is suitable for small to large web applications and provides a set of predefined views and helper functions to make web development simpler, also it has a good support for unit testing. All these frameworks have their own strengths and weaknesses, the choice of framework will depend on the specific requirements of the project and developer's preferences.",
+            "Topics": [
+                {
+                    "Title": "Django",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Flask",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Pyramid",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        },
+        {
+            "Title": "asynchronous frameworks",
+            "Description": "Asynchronous frameworks in Python are web frameworks that allow multiple requests to be processed simultaneously using non-blocking I/O and event-driven architectures. These frameworks are designed to handle a large number of concurrent requests and are well suited for high-performance, high-concurrency web applications. Tornado is a web framework and asynchronous networking library that provides a non-blocking web server, and support for WebSockets, long polling and other asynchronous features. Sanic is a web framework that is built on top of asyncio, it allows the usage of regular synchronous code and libraries, but it will run it asynchronously in the background, with no need for explicit async/await syntax. Both frameworks are well suited for building high-performance web applications, handling thousands of concurrent connections, and providing features such as WebSockets, long polling, and other asynchronous features.",
+            "Topics": [
+                {
+                    "Title": "Gevent",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Tornado",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Sanic",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "testing",
+            "Description": "Testing is a critical aspect of software development, and in Python, there are several frameworks and libraries available for testing. PyUnit (also known as unittest) is the built-in testing framework that is included with Python's standard library, it provides a way to write unit tests, using a similar API as JUnit. Pytest is a popular, third-party testing framework that provides a more powerful and flexible way to write and run tests, it also supports advanced features such as parameterized testing and fixture. Other popular testing libraries include nose, doctest, and unittest2. These libraries provide a variety of tools and features for writing and running tests, including support for test discovery, test execution, and test reporting, which makes it easier for developers to write and maintain automated tests for their code.",
+            "Topics": [
+                {
+                    "Title": "Pytest",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Doctest",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Nose",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Pyunit",
+                    "Link": "",
+                    "Priority": "2"
                 }
             ]
         }
