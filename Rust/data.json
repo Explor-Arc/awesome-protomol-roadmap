@@ -1,0 +1,376 @@
+{
+    "Title": "Rust",
+    "Description": "This roadmap provides a comprehensive guide to learning Rust programming language, starting from the basics and building up to advanced concepts. The roadmap is divided into five key divisions, each covering a specific aspect of Rust programming. The first division, \"Fundamentals\", provides an introduction to the basic syntax and concepts of Rust, including variables, data types, control flow, functions, and ownership. The second division, \"Structures\", covers the basic structures in Rust such as structs, enums, traits, modules, and crates. \"Concurrency\" is the third division, where you will learn about concurrent programming in Rust, including threads, channels, async and futures. The fourth division, \"Advanced Features\", delves into more advanced features such as unsafe code, macro programming, generics, and web development. Finally, the fifth division, \"Mastery\", focuses on taking your skills to the next level, including the Rust Standard Library, advanced topics, and the importance of practice and community engagement. By following this roadmap, you will gain a deep understanding of Rust programming language, and be well equipped to develop complex programs with confidence.",
+    "Topics": [
+        {
+            "Title": "fundamentals",
+            "Description": "In this division, you will get introduced to the basics of Rust programming language and its syntax. The topics covered in this division include Variables and Data Types, which will help you understand how to store and manipulate data. Control Flow topics such as if/else and loops will give you a deeper understanding of how to control the flow of your programs. Functions are an integral part of any programming language, and you will learn how to define and call functions in Rust. Lastly, Ownership is a unique feature of Rust, and in this division, you will learn how to manage resources in a safe and efficient manner.",
+            "Topics": [
+                {
+                    "Title": "Syntax",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Variables",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Data Types",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Tuples",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Arrays",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Strings",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Control Structure ( If-else )",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Loops ( for - while - loop )",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Conditional expressions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": " Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Ownership",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Borrowing",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "References",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Move",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Copy",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "structures",
+            "Description": "In this division, you will learn about the structures that form the building blocks of Rust programs. Structs and Enums are the basic structures that you will learn about, including how to define and use them. Traits are used to define common behavior for types and you will learn how to define and implement traits. Modules and crates are important concepts in Rust and you will learn how to organize and manage your code.",
+            "Topics": [
+                {
+                    "Title": "Structs",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Structs - Fields",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Structs - Methods",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Enums",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Enums - Variants",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Enums - Match expressions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Traits",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Traits - Associated Types",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": " Traits-Bounds",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Modules",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "crates",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "concurrency",
+            "Description": "Rust is a language that places a strong emphasis on concurrent programming. In this division, you will learn about Concurrency, which includes topics such as threads, channels, and sync. You will also learn about Async and Futures, which allow you to write asynchronous code in Rust. This division will help you develop a deep understanding of how to manage resources efficiently in a concurrent environment.",
+            "Topics": [
+                {
+                    "Title": "Threads",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Channels",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Sync",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Send",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Arc",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Mutex",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "async",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "await",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Future",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Stream",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Task",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Executor",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "advanced features",
+            "Description": "In this division, you will delve deeper into the more advanced features of Rust. Unsafe Code is a powerful feature that allows you to write code that is not bound by Rust's safety guarantees, and you will learn how to use it safely. Macro Programming allows you to extend the Rust language, and you will learn how to write and use macros. Generics allow you to write code that is flexible and can be used with different types, and you will learn how to use them. Finally, you will learn about advanced topics in concurrent programming, including optimization techniques and web development.",
+            "Topics": [
+                {
+                    "Title": "Unsafe blocks",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Raw pointers",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Dereferencing",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Casting",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Overlapping",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Macro Programming",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Macro rules",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": " Macro definition",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": " Macro expansion",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": " Attributes",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Generics",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Lifetime parameters",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Atomic types",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Poisoned Mutex",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "RwLock",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Barrier",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Semaphore",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Thread local storage",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        },
+        {
+            "Title": "mastery",
+            "Description": "In this division, you will take your skills to the next level and achieve mastery in Rust programming. You will learn about the Rust Standard Library, including the core library and various collection types, and how to use them effectively. Advanced Topics will cover topics such as advanced macro programming, advanced generics, and web development.",
+            "Topics": [
+                {
+                    "Title": "Standard Library",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Standard modules",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Core library",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Collection types",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Iterators",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Input/Output",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Error handling",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Advanced macro programming",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Advanced generics",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Advanced concurrency",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Optimization",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Web development",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        }
+    ]
+}
