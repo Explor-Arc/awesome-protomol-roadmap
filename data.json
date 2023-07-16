@@ -16,7 +16,47 @@
                 "Title": "Python",
                 "Id": "Python",
                 "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/PythonLang/data.json"
+            },
+            {
+                "Title": "C",
+                "Id": "C",
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/C/data.json"
+            },
+            {
+                "Title": "Java",
+                "Id": "Java",
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/Java/data.json"
+            },
+            {
+                "Title": "JavaScript",
+                "Id": "JavaScript",
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/JavaScript/data.json"
+            },
+            {
+                "Title": "Rust",
+                "Id": "Rust",
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/Rust/data.json"
+            },
+            {
+                "Title": "TypeScript",
+                "Id": "TypeScript",
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/TypeScript/data.json"
             }
         ]
-    }
+    },
+    "3": {
+        "Title": "Technologies",
+        "Roadmaps": [
+            {
+                "Title": "Data Science",
+                "Id": "DataScience",
+                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/DataScience/data.json"
+            },
+            {
+                "Title": "DevOps",
+                "Id": "DevOps",
+                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/DevOps/data.json"
+            }
+        ]
+    },
 }
