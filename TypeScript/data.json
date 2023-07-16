@@ -1,0 +1,310 @@
+{
+    "Title": "Typescript",
+    "Description": "The TypeScript learning roadmap covers the basics of TypeScript syntax and data types, as well as advanced features like generics, decorators, and mixins. You'll also learn about object-oriented programming concepts like classes and interfaces, as well as how to work with modules and namespaces. In addition, you'll learn about development tools and workflows, integrating TypeScript with popular libraries and frameworks, and best practices for writing clean and maintainable TypeScript code.",
+    "Topics": [
+        {
+            "Title": "getting started",
+            "Description": "This topic covers the basics of TypeScript, including its benefits, how to install it, and how to set up a new TypeScript project. You'll also learn how to compile your TypeScript code and the basics of the TypeScript syntax.",
+            "Topics": [
+                {
+                    "Title": "Installation",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Setting up TypeScript",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Compiling TypeScript",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Syntax",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "data types and variables",
+            "Description": "In this topic, you'll learn about the various data types available in TypeScript, including primitive data types, arrays, tuples, and enumerations. You'll also learn how to declare and use variables and constants in TypeScript, as well as how type inference works in TypeScript.",
+            "Topics": [
+                {
+                    "Title": "Primitive Data Types",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Arrays",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Tuples",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Enumerations",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Variables",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Constants",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Type Inference",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "functions and methods",
+            "Description": "This topic covers the basics of defining and using functions and methods in TypeScript. You'll learn about function overloading, optional and default parameters, and rest parameters.",
+            "Topics": [
+                {
+                    "Title": "Defining Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Defining Methods",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Function Overloading",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Optional Parameters",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Default Parameters",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Rest Parameters",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "classes and interfaces",
+            "Description": "This topic covers object-oriented programming concepts in TypeScript, including defining and using classes and interfaces. You'll learn about constructors, inheritance, access modifiers, abstract classes, and how to implement interfaces.",
+            "Topics": [
+                {
+                    "Title": "Defining Classes",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Defining Interfaces",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Constructors",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Inheritance",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Access Modifiers",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Abstract Classes",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Interfaces",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Classes",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Implementing Interfaces",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "generics",
+            "Description": "Generics are a powerful feature of TypeScript that allow you to write code that can work with a variety of different data types. In this topic, you'll learn about generic functions and classes, as well as how to use generic constraints and interfaces.",
+            "Topics": [
+                {
+                    "Title": "Introduction to Generics",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Generic Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Generic Methods",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Generic Classes",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Generic Constraints",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Generic Interfaces",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "modules and namespaces",
+            "Description": "In this topic, you'll learn how to work with modules and namespaces in TypeScript. You'll learn about exporting and importing modules, as well as how to work with namespaces to organize your code.",
+            "Topics": [
+                {
+                    "Title": "Introduction to Modules",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Exporting Modules",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Importing Modules",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Working with Namespaces",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "advanced features",
+            "Description": "This topic covers some of the more advanced features of TypeScript, including decorators, mixins, intersection and union types, type aliases and guards, and conditional types.",
+            "Topics": [
+                {
+                    "Title": "Decorators",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Mixins",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Intersection and Union Types",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Type Aliases and Type Guards",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Type Inference for Conditional Types",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "tooling and development workflow",
+            "Description": "To be productive with TypeScript, you need to have a good development workflow in place. This topic covers the various tools and techniques you can use to improve your TypeScript development workflow, including compiler options, debugging, linting, and integrating with other tools and frameworks.",
+            "Topics": [
+                {
+                    "Title": "TypeScript Compiler Options",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Debugging TypeScript Code",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Linting TypeScript Code",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Integrating TypeScript with Webpack and Babel",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Testing TypeScript Code",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "libraries and frameworks",
+            "Description": "In this topic, you'll learn how to use TypeScript with popular libraries and frameworks such as React, Angular, and Node.js. You'll also learn how to write type definitions for external libraries so that you can use them in your TypeScript code.",
+            "Topics": [
+                {
+                    "Title": "TypeScript with React",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "TypeScript with Angular",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "TypeScript with Node.js",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Writing Type Definitions for External Libraries",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        }
+    ]
+}
