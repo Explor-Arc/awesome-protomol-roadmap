@@ -1,0 +1,510 @@
+{
+    "Title": "DevOps",
+    "Description": "DevOps is a software development methodology that emphasizes on the integration and automation of development, testing, deployment, and operations processes to increase the speed and quality of software delivery. It promotes collaboration and communication between development and operations teams, breaking down silos and fostering a culture of shared responsibility. The goal of DevOps is to deliver software faster and more reliably, while also reducing the risk of errors and downtime. The practices such as Continuous Integration (CI) and Continuous Deployment (CD) play a key role in this, where code changes are automatically built, tested and deployed in different environments. This allows teams to catch and fix errors early in the development process and deploy software quickly and frequently. Additionally, DevOps also includes practices like Continuous Monitoring, Continuous Testing, and Configuration Management, which all together help to improve the overall software development lifecycle.",
+    "Topics": [
+        {
+            "Title": "programming language",
+            "Description": "A programming language is a set of instructions and syntax used to create software and applications. It is used to control the behavior of a computer and perform specific tasks. Examples of popular programming languages are C, C++, Java, Python, JavaScript, and more. Each language has its own unique syntax and characteristics, making them suitable for different types of development. For example, C and C++ are low-level languages that are used in system programming and embedded systems, while Python and JavaScript are high-level languages that are popular for web development and data analysis.",
+            "Topics": [
+                {
+                    "Title": "Python",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Go",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Ruby",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "NodeJS",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Rust",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "os concepts",
+            "Description": "Operating System (OS) is a software that manages the hardware resources of a computer, acts as an intermediary between the computer's hardware and software, and provides a platform for other software to run. It controls the communication between the computer and other devices on a network, manages the memory and processing power, manages the storage and retrieval of data on the disk, schedules tasks, provides security and user authentication, and more. It also provides common services such as file management, process management, and input/output management. These are the fundamental concepts that an OS handles.",
+            "Topics": [
+                {
+                    "Title": "Networking",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "POSIX",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Sockets",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Processes",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "I/0 Management",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Virtualization",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Memory Management",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "File Systems",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Startup Management",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Service Management",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Thread in OS",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "operating system",
+            "Description": "An operating system (OS) is the software that manages the hardware resources of a computer and provides a platform for other software to run. There are several types of OS, including Windows, Linux, and Unix. Windows is a popular OS developed by Microsoft, known for its user-friendly interface and compatibility with many applications. Linux is an open-source OS, known for its stability and security, and is widely used in servers and embedded systems. Unix is a multi-user and multi-tasking OS, known for its scalability and reliability, and is widely used in servers and supercomputers. All these OS have different features and characteristics, but the main function of all is to manage the computer's resources and provide a platform for other software to run.",
+            "Topics": [
+                {
+                    "Title": "Linux",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Unix",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Windows",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "terminal",
+            "Description": "A terminal, also known as a command-line interface (CLI), is a text-based interface that allows users to interact with a computer by typing commands and receiving text-based output. It provides a direct way to communicate with the operating system, bypassing the graphical user interface (GUI). Users can access the underlying system, run commands, navigate the file system, perform basic tasks, automate processes and perform advance tasks with the help of command line utilities. Some examples of terminal commands include navigating the file system, managing processes, editing files, and installing software. Terminals are commonly used by developers and system administrators, but can be useful for any user who wants more control over their computer.",
+            "Topics": [
+                {
+                    "Title": "Bash Scripting",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Terminal Editors",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Compiling Apps using GCC",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Text Manipulation Tools",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Command-Line Tools",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Terminal Multiplexers",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Process Monitoring Tools",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "System Performance Tools",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Network Tools",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "web servers",
+            "Description": "A web server is a program or device that receives and processes requests for web pages and other resources over the internet, and sends the requested information back to the client. It is responsible for handling the HTTP protocol, which is used to transfer data over the web. Commonly used web servers include Apache, Nginx, and IIS. These web servers can be run on a variety of operating systems such as Windows, Linux, and Unix. Web servers can handle multiple requests simultaneously, and can also handle tasks such as server-side scripting, security, and performance optimization. They are a crucial component of the infrastructure for hosting websites and web applications, and play a vital role in making the internet accessible to users around the world.",
+            "Topics": [
+                {
+                    "Title": "Reverse Proxy",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Caching Server",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Forward Proxy",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Load Balancer",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Firewall",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Nginx",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Apache",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Tomcat",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "ISS",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "containers",
+            "Description": "Containers are a way to package and distribute software, allowing it to run consistently across different environments. They provide an isolated environment for the application and its dependencies, making it easy to move and run the application on different systems. Containers are lightweight and efficient, as they share the host operating system kernel and only include the necessary libraries and dependencies for the application. Popular containerization technologies include Docker and Kubernetes. These technologies provide a way to create, deploy, and manage containers in production environments, allowing for efficient scaling and management of applications. Containers are widely used in cloud computing, microservices, and DevOps, as they allow for easy deployment, scaling, and management of applications.",
+            "Topics": [
+                {
+                    "Title": "Docker",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "LXC",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "infrastructure as code",
+            "Description": "Infrastructure as Code (IaC) is a practice of managing and provisioning infrastructure using code and scripts, rather than manual processes. This allows for efficient management and scaling of infrastructure, and promotes collaboration and reusability. GitOps is a specific approach to IaC that uses Git as the single source of truth for infrastructure and application configuration. It uses Git as the central repository for all configuration files and uses continuous integration and continuous deployment (CI/CD) pipeline to automatically apply changes to the infrastructure. Service Mesh is a configurable infrastructure layer for microservices application that makes communication flexible, reliable and fast. Secret Management is the process of protecting sensitive data such as credentials, tokens and keys, and Config Management is the process of maintaining the desired state of the infrastructure. All these practices are related and are used to automate and manage the infrastructure, making it more scalable, secure, and reliable.",
+            "Topics": [
+                {
+                    "Title": "GitOPS",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Service Mesh",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Secret Management",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Container Orchestration",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Configuration Management",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "infrastructure provisioning",
+            "Description": "Infrastructure provisioning is the process of acquiring and configuring the necessary resources for an infrastructure. This can include servers, storage, networking, and other resources. There are several tools and platforms available for infrastructure provisioning, such as AWS, Terraform and more. AWS (Amazon Web Services) is a cloud computing platform that provides a wide range of services for infrastructure provisioning, such as EC2 for virtual servers, S3 for storage, and RDS for databases. Terraform is an open-source tool that allows for the provisioning of infrastructure as code, and can work with multiple cloud providers and on-premises environments. It can be used to define infrastructure as code, versioning and track changes, and automate the provisioning process. Other tools include Ansible, Puppet, and Chef. These tools provide different ways to automate the infrastructure provisioning process, making it more efficient and reliable.",
+            "Topics": [
+                {
+                    "Title": "Terraform",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "AWS CDK",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "CloudFormation",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Pulumi",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "ci/cd tools",
+            "Description": "CI/CD (Continuous Integration/Continuous Deployment) tools are software that automate the process of building, testing, and deploying code changes. These tools are essential for ensuring that code changes are integrated, tested, and deployed in a fast, reliable, and consistent manner. Some popular CI/CD tools include Jenkins, Travis CI, CircleCI, and GitLab CI/CD. These tools provide features such as automated building, testing, and deployment of code changes, integration with various version control systems, and the ability to configure custom pipelines and workflows. Additionally, many CI/CD tools also include built-in support for containerization, infrastructure provisioning, and monitoring. These tools are widely used in software development and DevOps practices to improve the speed, quality, and reliability of software delivery.",
+            "Topics": [
+                {
+                    "Title": "GitLab CI",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Jenkins",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "GitHub Actions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "CircleCI",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Travis CI",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "TeamCity",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Azure DevOps",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Drone",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "infrastructure monitoring",
+            "Description": "Infrastructure monitoring is the process of collecting and analyzing data on the performance and availability of an infrastructure's resources. This includes servers, storage, networks, and other resources. The goal of infrastructure monitoring is to detect and diagnose issues quickly, and to prevent or mitigate service disruptions.  There are several tools available for infrastructure monitoring, such as Prometheus, Nagios, and Zabbix. These tools provide features such as real-time monitoring, alerting, and reporting. They can also integrate with other tools such as logging and tracing platforms to provide a complete view of the infrastructure. Additionally, many infrastructure monitoring tools also include built-in support for containerization and cloud-based resources, making it easy to monitor dynamic and distributed infrastructure. The collected data can be analyzed to identify trends, bottlenecks, and other issues, and to make informed decisions on capacity planning and performance optimization.",
+            "Topics": [
+                {
+                    "Title": "Prometheus",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Grafana",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Datadog",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Nagios",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Zabbix",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Monit",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "application monitoring",
+            "Description": "Application monitoring is the process of collecting and analyzing data on the performance and behavior of an application. It aims to detect and diagnose issues quickly and prevent or mitigate service disruptions. This includes monitoring of application-level metrics such as response time, error rate, and throughput, as well as system-level metrics such as CPU and memory usage.  There are several tools available for application monitoring, such as New Relic, AppDynamics, and Dynatrace. These tools provide features such as real-time monitoring, alerting, and reporting, and can also integrate with logging and tracing platforms to provide a complete view of the application. They can also detect and diagnose issues such as slow requests, errors, and memory leaks, and provide insights on application performance, user behavior and customer experience. Additionally, many application monitoring tools also include built-in support for distributed and microservices-based applications, making it easy to monitor and troubleshoot complex and dynamic environments.",
+            "Topics": [
+                {
+                    "Title": "Jaeger",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "New Relic",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "AppDynamics",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Instana",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "OpenTelemetry\n",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "logs management",
+            "Description": "Log management is the process of collecting, storing, analyzing, and visualizing log data from various sources in a centralized location. Logs provide valuable information about the performance and behavior of an infrastructure and applications. Log management enables organizations to troubleshoot issues, identify trends, and track user activities.  There are several tools available for log management, such as Elasticsearch, Logstash, and Kibana (ELK Stack), Splunk, and Fluentd. These tools provide features such as data collection, storage, indexing, searching, and visualizing log data. They allow administrators to easily search and analyze log data, set alerts, and create dashboards to monitor the health and performance of their infrastructure and applications. Additionally, many log management tools also include built-in support for containerization and cloud-based resources, making it easy to collect and analyze log data from dynamic and distributed environments.",
+            "Topics": [
+                {
+                    "Title": "Elastic Stack",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Loki",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Graylog",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Splunk",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Papertrail",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "cloud providers",
+            "Description": "Cloud providers are companies that offer cloud computing services, such as storage, networking, and computing power, over the internet. They provide customers with the ability to access and use these resources on-demand, without having to invest in and manage their own infrastructure. There are several types of cloud providers, including Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS) providers.  Some of the most popular cloud providers are Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and Alibaba Cloud. These providers offer a wide range of services, such as virtual servers, storage, databases, and analytics. They also provide tools and services for automation, monitoring, and management of cloud resources. Cloud providers offer flexibility, scalability, and cost-efficiency, making it an attractive option for businesses of all sizes to host their applications and store their data.",
+            "Topics": [
+                {
+                    "Title": "AWS",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Gooogle Cloud",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "DigitalOcean",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Alibaba Cloud",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Azure",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Linode",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Heroku",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Vultr",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "cloud design patterns",
+            "Description": "Cloud design patterns are a set of best practices and solutions that provide guidance for designing and building scalable, reliable and resilient systems on the cloud. They help to address common design challenges such as security, data management, and scalability that are faced while building cloud-based applications. There are several types of cloud design patterns like Elasticity patterns, Resiliency patterns, Security patterns, Data management patterns, Networking patterns etc. These patterns are not specific to any particular cloud provider and can be implemented on any cloud platform, by using these design patterns, developers and architects can create cloud-based systems that are scalable, resilient, secure and easy to manage.",
+            "Topics": [
+                {
+                    "Title": "Availability",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Data Management",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Design and implementation",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Management and Monitoring",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        }
+    ]
+}
