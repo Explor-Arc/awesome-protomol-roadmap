@@ -1,0 +1,266 @@
+{
+    "Title": "C",
+    "Description": "This C programming roadmap provides a comprehensive guide for learning the C language, from the basics to advanced topics. It covers syntax and data types, control structures, dynamic memory allocation, linked lists, and more. The roadmap also explores standard library functions, such as mathematical functions and string functions, and provides an overview of real-world applications of C, such as network programming and game development. Whether you're a beginner or an experienced programmer, this roadmap provides a clear path to follow on your journey to mastering C programming.",
+    "Topics": [
+        {
+            "Title": "basics",
+            "Description": "This section covers the basic syntax and data types of C programming, along with variables, constants, and operators. You will also learn about control structures such as if-else statements and switch statements, as well as loops such as for, while, and do-while. Additionally, you will be introduced to functions, arrays and strings, pointers, and memory management.",
+            "Topics": [
+                {
+                    "Title": "Syntax",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Data Types",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Variables",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Constants",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Operators",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Control Structures (if-else - switch)",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Loops (for - while - dowhile)",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Arrays",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Strings",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Pointers",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Memory Management",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Command Line Arguments",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "essentials",
+            "Description": "This section dives deeper into intermediate topics in C programming, including file input/output, structures and unions, dynamic memory allocation, bitwise operations, preprocessor directives, and typecasting. These concepts are essential for building robust and efficient C programs.",
+            "Topics": [
+                {
+                    "Title": "File Input/Output",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Structures and Unions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Dynamic Memory Allocation",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Bitwise Operations",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Preprocessor Directives",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Typecasting",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "advanced topics",
+            "Description": "This section explores advanced topics in C programming, including linked lists, stacks and queues, trees, recursion, advanced pointer concepts, signal handling and interrupts, and multithreading. These concepts will enable you to create complex and efficient programs in C.",
+            "Topics": [
+                {
+                    "Title": "Linked Lists",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Stacks and Queues",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Trees",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Recursion",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Advanced Pointer Concepts",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Signal Handling and Interrupts",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Multithreading",
+                    "Link": "",
+                    "Priority": "2"
+                }
+            ]
+        },
+        {
+            "Title": "standard library functions",
+            "Description": "This section covers the standard library functions that are widely used in C programming, including string and character functions, mathematical functions, time and date functions, dynamic linking and libraries, input and output functions, and error handling functions. Understanding these functions will allow you to write more efficient and effective C programs.",
+            "Topics": [
+                {
+                    "Title": "String Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Character Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Mathematical Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Time Function",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Date Functions",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Dynamic Linking",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Libraries",
+                    "Link": "",
+                    "Priority": "1"
+                }
+            ]
+        },
+        {
+            "Title": "putting c to use",
+            "Description": "This section provides an overview of real-world applications of C programming, including system programming, database connectivity, network programming, game development, and embedded systems. These applications demonstrate the versatility and power of C programming, and will inspire you to create your own innovative programs.",
+            "Topics": [
+                {
+                    "Title": "System Programming",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "OS development",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "device drivers",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "shell scripting",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Database Connectivity",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Network Programming",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "sockets",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": " protocols",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Game Development",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Embedded Systems",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "microcontroller programming",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": " IoT development",
+                    "Link": "",
+                    "Priority": "3"
+                },
+                {
+                    "Title": "Data Analysis",
+                    "Link": "",
+                    "Priority": "3"
+                }
+            ]
+        }
+    ]
+}
