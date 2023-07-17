@@ -8,27 +8,27 @@
             "Topics": [
                 {
                     "Title": "Basic Syntax",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/python-basic-syntax",
                     "Priority": "1"
                 },
                 {
                     "Title": "Variables",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/what-are-variables-in-python",
                     "Priority": "1"
                 },
                 {
                     "Title": "Data Types & Operators",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/python-data-types-&-operators",
                     "Priority": "1"
                 },
                 {
                     "Title": "Conditional Statements",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/python-conditional-statements",
                     "Priority": "1"
                 },
                 {
                     "Title": "Type Casting",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/what-is-type-casting-in-python",
                     "Priority": "1"
                 },
                 {
@@ -38,12 +38,12 @@
                 },
                 {
                     "Title": "Functions",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/how-do-functions-work-in-python",
                     "Priority": "1"
                 },
                 {
                     "Title": "Lists",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/what-are-python-lists",
                     "Priority": "1"
                 },
                 {
