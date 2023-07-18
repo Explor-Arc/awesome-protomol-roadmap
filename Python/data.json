@@ -48,22 +48,22 @@
                 },
                 {
                     "Title": "Tuples",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/what-are-tuples-in-python",
                     "Priority": "1"
                 },
                 {
                     "Title": "Sets",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/what-are-sets-in-python",
                     "Priority": "1"
                 },
                 {
                     "Title": "Dictionaries",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/what-are-dictionaries-in-python",
                     "Priority": "1"
                 },
                 {
                     "Title": "String Manipulation",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/what-are-string-manipulation-in-python",
                     "Priority": "1"
                 }
             ]
@@ -74,7 +74,7 @@
             "Topics": [
                 {
                     "Title": "Built-In",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/builtin-functions-in-python",
                     "Priority": "1"
                 },
                 {
