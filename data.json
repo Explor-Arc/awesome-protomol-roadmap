@@ -5,7 +5,8 @@
             {
                 "Title": "FrontEnd Dev.",
                 "Id": "FrontEnd",
-                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/FrontEnd/data.json"
+                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/FrontEnd/data.json",
+                "Description": "FrontEnd Dev"
             }
         ]
     },
@@ -15,32 +16,38 @@
             {
                 "Title": "Python",
                 "Id": "Python",
-                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/PythonLang/data.json"
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/PythonLang/data.json",
+                "Description": "Python is a high-level, interpreted, and general-purpose programming language. It is widely used for web development, scientific computing, data analysis, artificial intelligence, and other fields. Python's design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than in languages such as C++ or Java. Python supports multiple programming paradigms, including object-oriented, imperative, and functional programming. It also features a dynamic type system and automatic memory management, making it a popular choice for beginners and experienced programmers alike. Python has a large and active community, which has led to the development of many useful libraries and frameworks, such as NumPy and Pandas for data analysis, and Django and Flask for web development."
             },
             {
                 "Title": "C",
                 "Id": "C",
-                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/C/data.json"
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/C/data.json",
+                "Description": "This C programming roadmap provides a comprehensive guide for learning the C language, from the basics to advanced topics. It covers syntax and data types, control structures, dynamic memory allocation, linked lists, and more. The roadmap also explores standard library functions, such as mathematical functions and string functions, and provides an overview of real-world applications of C, such as network programming and game development. Whether you're a beginner or an experienced programmer, this roadmap provides a clear path to follow on your journey to mastering C programming."
             },
             {
                 "Title": "Java",
                 "Id": "Java",
-                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/Java/data.json"
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/Java/data.json",
+                "Description": "This roadmap provides a comprehensive guide for learning Java programming language from beginner to advanced level, covering essential concepts such as basic syntax and structure, object-oriented programming, advanced topics such as exception handling, multithreading, input/output operations, JavaFX and GUI development, and optional advanced topics like JPA and Hibernate and the Spring framework. It is structured into categories and sub-categories, with a focus on hands-on learning through building projects and participating in coding challenges and hackathons. This roadmap is designed to give learners a structured and comprehensive foundation for a successful career as a Java developer."
             },
             {
                 "Title": "JavaScript",
                 "Id": "JavaScript",
-                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/JavaScript/data.json"
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/JavaScript/data.json",
+                "Description": "This roadmap provides a comprehensive guide for learning JavaScript, starting from the basics and covering advanced topics. It is organized into five categories - JavaScript Fundamentals, DOM Mastery, Object Oriented JavaScript, Asynchronous JavaScript and APIs, and JavaScript Libraries and Frameworks - with more than 8 subtopics in each category. This roadmap is designed to help you learn JavaScript from a beginner to advanced level, and will provide you with a solid understanding of the language, as well as the tools and techniques used in modern JavaScript development. Whether you are a complete beginner, or looking to build upon your existing knowledge, this roadmap will give you a structured path to follow as you progress in your JavaScript journey."
             },
             {
                 "Title": "Rust",
                 "Id": "Rust",
-                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/Rust/data.json"
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/Rust/data.json",
+                "Description": "This roadmap provides a comprehensive guide to learning Rust programming language, starting from the basics and building up to advanced concepts. The roadmap is divided into five key divisions, each covering a specific aspect of Rust programming. The first division, \"Fundamentals\", provides an introduction to the basic syntax and concepts of Rust, including variables, data types, control flow, functions, and ownership. The second division, \"Structures\", covers the basic structures in Rust such as structs, enums, traits, modules, and crates. \"Concurrency\" is the third division, where you will learn about concurrent programming in Rust, including threads, channels, async and futures. The fourth division, \"Advanced Features\", delves into more advanced features such as unsafe code, macro programming, generics, and web development. Finally, the fifth division, \"Mastery\", focuses on taking your skills to the next level, including the Rust Standard Library, advanced topics, and the importance of practice and community engagement. By following this roadmap, you will gain a deep understanding of Rust programming language, and be well equipped to develop complex programs with confidence."
             },
             {
                 "Title": "TypeScript",
                 "Id": "TypeScript",
-                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/TypeScript/data.json"
+                "Link": "https://github.com/Explor-Arc/protomol-roadmap/blob/main/TypeScript/data.json",
+                "Description": "The TypeScript learning roadmap covers the basics of TypeScript syntax and data types, as well as advanced features like generics, decorators, and mixins. You'll also learn about object-oriented programming concepts like classes and interfaces, as well as how to work with modules and namespaces. In addition, you'll learn about development tools and workflows, integrating TypeScript with popular libraries and frameworks, and best practices for writing clean and maintainable TypeScript code."
             }
         ]
     },
@@ -50,12 +57,14 @@
             {
                 "Title": "Data Science",
                 "Id": "DataScience",
-                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/DataScience/data.json"
+                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/DataScience/data.json",
+                "Description": "Data Science is a field that uses scientific methods, processes, algorithms, and systems to extract insights and knowledge from structured and unstructured data. It involves a combination of techniques and tools from various fields such as mathematics, statistics, computer science, and domain-specific knowledge to analyze, visualize and make predictions from data. Data scientists use statistical and machine learning techniques to extract insights and make predictions, use data visualization and exploration techniques to understand and communicate the data, and use computer science and programming skills to work with large datasets, build models and deploy them to production."
             },
             {
                 "Title": "DevOps",
                 "Id": "DevOps",
-                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/DevOps/data.json"
+                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/DevOps/data.json",
+                "Description": "DevOps is a software development methodology that emphasizes on the integration and automation of development, testing, deployment, and operations processes to increase the speed and quality of software delivery. It promotes collaboration and communication between development and operations teams, breaking down silos and fostering a culture of shared responsibility. The goal of DevOps is to deliver software faster and more reliably, while also reducing the risk of errors and downtime. The practices such as Continuous Integration (CI) and Continuous Deployment (CD) play a key role in this, where code changes are automatically built, tested and deployed in different environments. This allows teams to catch and fix errors early in the development process and deploy software quickly and frequently. Additionally, DevOps also includes practices like Continuous Monitoring, Continuous Testing, and Configuration Management, which all together help to improve the overall software development lifecycle."
             }
         ]
     }
