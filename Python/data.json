@@ -27,14 +27,34 @@
                     "Priority": "1"
                 },
                 {
-                    "Title": "Type Casting",
-                    "Link": "https://explorarc.com/pins/what-is-type-casting-in-python",
+                    "Title": "Numbers",
+                    "Link": "https://explorarc.com/pins/numbers-in-python",
                     "Priority": "1"
                 },
                 {
-                    "Title": "Exceptions",
-                    "Link": "",
-                    "Priority": "2"
+                    "Title": "String",
+                    "Link": "https://explorarc.com/pins/strings-in-python",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Boolean",
+                    "Link": "https://explorarc.com/pins/boolean-in-python",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "While Loop",
+                    "Link": "https://explorarc.com/pins/while-loop-in-python",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "For Loop",
+                    "Link": "https://explorarc.com/pins/for-loop",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Type Casting",
+                    "Link": "https://explorarc.com/pins/what-is-type-casting-in-python",
+                    "Priority": "1"
                 },
                 {
                     "Title": "Functions",
@@ -65,6 +85,11 @@
                     "Title": "String Manipulation",
                     "Link": "https://explorarc.com/pins/what-are-string-manipulation-in-python",
                     "Priority": "1"
+                },
+                {
+                    "Title": "User Input",
+                    "Link": "https://explorarc.com/pins/user-input-in-python",
+                    "Priority": "1"
                 }
             ]
         },
@@ -80,6 +105,16 @@
                 {
                     "Title": "User-Defined",
                     "Link": "https://explorarc.com/pins/what-is-userdefined-function-in-python",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Modules",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
+                    "Title": "Lambda",
+                    "Link": "",
                     "Priority": "1"
                 }
             ]
@@ -129,6 +164,11 @@
                     "Priority": "2"
                 },
                 {
+                    "Title": "Scope",
+                    "Link": "",
+                    "Priority": "1"
+                },
+                {
                     "Title": "Method Overloading ",
                     "Link": "https://explorarc.com/pins/what-is-method-overloading-in-python",
                     "Priority": "3"
@@ -139,7 +179,27 @@
                     "Priority": "3"
                 },
                 {
+                    "Title": "Exceptions",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
                     "Title": "Decorators",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Dates",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "Maths",
+                    "Link": "",
+                    "Priority": "2"
+                },
+                {
+                    "Title": "JSON",
                     "Link": "",
                     "Priority": "2"
                 }
@@ -177,11 +237,6 @@
                 },
                 {
                     "Title": "Iterators ",
-                    "Link": "",
-                    "Priority": "1"
-                },
-                {
-                    "Title": "Lambda Functions ",
                     "Link": "",
                     "Priority": "1"
                 },
