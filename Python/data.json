@@ -109,12 +109,12 @@
                 },
                 {
                     "Title": "Modules",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/modules-in-python",
                     "Priority": "1"
                 },
                 {
                     "Title": "Lambda",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/lambda-in-python",
                     "Priority": "1"
                 }
             ]
@@ -165,7 +165,7 @@
                 },
                 {
                     "Title": "Scope",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/scope-in-python",
                     "Priority": "1"
                 },
                 {
@@ -175,17 +175,17 @@
                 },
                 {
                     "Title": "Method Overriding ",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/method-overriding-in-python",
                     "Priority": "3"
                 },
                 {
                     "Title": "Exceptions",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/exceptions-in-python",
                     "Priority": "2"
                 },
                 {
                     "Title": "Decorators",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/decorators-in-python",
                     "Priority": "2"
                 },
                 {
