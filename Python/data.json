@@ -190,17 +190,17 @@
                 },
                 {
                     "Title": "Dates",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/dates-in-python",
                     "Priority": "2"
                 },
                 {
                     "Title": "Maths",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/math-module-in-python",
                     "Priority": "2"
                 },
                 {
                     "Title": "JSON",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/json-in-python",
                     "Priority": "2"
                 }
             ]
@@ -210,18 +210,18 @@
             "Description": "A package manager is a tool that helps to manage and distribute software packages, and in the case of Python, package managers are used to manage and distribute libraries and modules. Two popular package managers for Python are pip and conda. They allow developers to easily install and manage third-party packages and modules, making it easy to add new functionality to their projects. These package managers also allow developers to specify the version of a package they want to install and manage package dependencies, that are needed for the package to work correctly. By using package managers, developers can easily share and reuse code, and manage dependencies in a consistent and efficient way, making it easier to develop, test and deploy Python applications.",
             "Topics": [
                 {
-                    "Title": "PIP ",
-                    "Link": "",
+                    "Title": "PIP",
+                    "Link": "https://explorarc.com/pins/pip-in-python",
                     "Priority": "1"
                 },
                 {
-                    "Title": "PyPI ",
-                    "Link": "",
+                    "Title": "PyPI",
+                    "Link": "https://explorarc.com/pins/pypi-in-python",
                     "Priority": "3"
                 },
                 {
                     "Title": "Conda",
-                    "Link": "",
+                    "Link": "https://explorarc.com/pins/conda-in-python",
                     "Priority": "3"
                 }
             ]
